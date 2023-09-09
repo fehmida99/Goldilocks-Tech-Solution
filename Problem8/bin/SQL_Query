@@ -1,0 +1,2 @@
+
+SELECT * FROM TEST WHERE employeeAge<30 AND employeename LIKE 'S%';
